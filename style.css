@@ -1,0 +1,38 @@
+h1 { 
+  font-size: 22px;
+  color: #58257b;
+ text-align: center;
+ font-style: italic;
+}
+h2 {
+  font-size: 18px;
+  font-style: italic ;
+color: #bbb;
+}
+div {
+  margin-top: 190px;
+  text-align: center;
+}
+body {
+ background-image: url("background.jpg"); 
+}
+button {
+background-color: #58257b;
+border-radius: 15%;
+color: white;
+margin-top: 8px;
+padding: 5px 12px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+input {
+width: 70%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+border: 2px solid #58257b;
+border-radius: 4px;
+}
+
